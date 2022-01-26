@@ -7,14 +7,19 @@
 <script>
 import ZEBus from './components/ZEBus.vue'
 
+
+
 export default {
   name: 'App',
+  
+
   components: {
-    ZEBus
+    ZEBus,
+    
   }
 }
 </script>
 
 <style>
-
+  
 </style>
