@@ -1,0 +1,550 @@
+[
+    {
+    "type": "node",
+    "id": 386050693,
+    "lat": 44.1929763,
+    "lon": 17.9098598,
+    "tags": {
+    "highway": "bus_stop"
+    }
+    },
+    {
+    "type": "node",
+    "id": 386118721,
+    "lat": 44.1906354,
+    "lon": 17.9458001,
+    "tags": {
+    "addr:postcode": "72000",
+    "addr:street": "Lukovo polje",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lukovo polje rampa",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 388194008,
+    "lat": 44.1873887,
+    "lon": 17.9496507,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lukovo polje zadnja stanica",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1598677839,
+    "lat": 44.1886401,
+    "lon": 17.9481525,
+    "tags": {
+    "highway": "bus_stop",
+    "name": "Lukovo polje"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1598679638,
+    "lat": 44.1951151,
+    "lon": 17.9231321,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lukovo polje garnizon",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1598684725,
+    "lat": 44.1915122,
+    "lon": 17.9390494,
+    "tags": {
+    "highway": "bus_stop",
+    "name": "Lukovo polje Jasa"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1880749546,
+    "lat": 44.1885816,
+    "lon": 17.9330276,
+    "tags": {
+    "highway": "bus_stop",
+    "name": "Rudnik"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1880751349,
+    "lat": 44.1874968,
+    "lon": 17.9227923,
+    "tags": {
+    "alt_name": "Zelenilo",
+    "highway": "bus_stop",
+    "ref": "6"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1883673415,
+    "lat": 44.2012759,
+    "lon": 17.9037307,
+    "tags": {
+    "highway": "bus_stop"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1883673698,
+    "lat": 44.1881711,
+    "lon": 17.9073775,
+    "tags": {
+    "highway": "bus_stop"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1998576386,
+    "lat": 44.2003034,
+    "lon": 17.9104852,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 1998576391,
+    "lat": 44.2001846,
+    "lon": 17.911297,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 2133094256,
+    "lat": 44.1851156,
+    "lon": 17.9030555,
+    "tags": {
+    "highway": "bus_stop"
+    }
+    },
+    {
+    "type": "node",
+    "id": 2682290541,
+    "lat": 44.1562055,
+    "lon": 17.9622371,
+    "tags": {
+    "highway": "bus_stop",
+    "operator": "Zenicatrans d.d.",
+    "shelter": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 2682293862,
+    "lat": 44.1589306,
+    "lon": 17.9623663,
+    "tags": {
+    "highway": "bus_stop"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5278476157,
+    "lat": 44.1519725,
+    "lon": 17.9612504,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5570964939,
+    "lat": 44.2217481,
+    "lon": 17.9125629,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5782120995,
+    "lat": 44.2071303,
+    "lon": 17.924005,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bolnica",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5782120996,
+    "lat": 44.2007512,
+    "lon": 17.9202576,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crkvice Jug",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5782126381,
+    "lat": 44.2031446,
+    "lon": 17.9217003,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crkvice",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5784648500,
+    "lat": 44.1940691,
+    "lon": 17.9188127,
+    "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 5784651124,
+    "lat": 44.2018282,
+    "lon": 17.9206552,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crkvice Jug",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 6052940299,
+    "lat": 44.2016351,
+    "lon": 17.9037833,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341077,
+    "lat": 44.1957839,
+    "lon": 17.9119568,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341078,
+    "lat": 44.1963636,
+    "lon": 17.9105885,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341079,
+    "lat": 44.1929521,
+    "lon": 17.9167375,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341080,
+    "lat": 44.1919105,
+    "lon": 17.9176382,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341081,
+    "lat": 44.1998693,
+    "lon": 17.9045752,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341082,
+    "lat": 44.2032149,
+    "lon": 17.9027868,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341083,
+    "lat": 44.2034298,
+    "lon": 17.9030745,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939341084,
+    "lat": 44.207841,
+    "lon": 17.9020555,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939439385,
+    "lat": 44.2079081,
+    "lon": 17.9023363,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 7939439402,
+    "lat": 44.2126881,
+    "lon": 17.909619,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8143464554,
+    "lat": 44.194526,
+    "lon": 17.918993,
+    "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8143464555,
+    "lat": 44.1954707,
+    "lon": 17.9190424,
+    "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8143476082,
+    "lat": 44.1954906,
+    "lon": 17.9171875,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8211459072,
+    "lat": 44.2024356,
+    "lon": 17.9078671,
+    "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8984313570,
+    "lat": 44.1947812,
+    "lon": 17.9222083,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8984313581,
+    "lat": 44.1976239,
+    "lon": 17.9225962,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8984313582,
+    "lat": 44.1952477,
+    "lon": 17.9238064,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929185,
+    "lat": 44.1953492,
+    "lon": 17.9230421,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929192,
+    "lat": 44.1934472,
+    "lon": 17.9322782,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929198,
+    "lat": 44.1919646,
+    "lon": 17.934223,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929331,
+    "lat": 44.1961836,
+    "lon": 17.9189642,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929349,
+    "lat": 44.1991556,
+    "lon": 17.9163829,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929386,
+    "lat": 44.202794,
+    "lon": 17.9079315,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8986929542,
+    "lat": 44.2087625,
+    "lon": 17.911567,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8989000924,
+    "lat": 44.2062543,
+    "lon": 17.9060358,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    },
+    {
+    "type": "node",
+    "id": 8989000926,
+    "lat": 44.2071585,
+    "lon": 17.9072811,
+    "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+    }
+    }
+    ]
